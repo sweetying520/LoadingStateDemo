@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">LoadingStateDemo</string>
+
+
+    <array name="ListView_Array">
+        <item>我的数据</item>
+        <item>我的数据</item>
+        <item>我的数据</item>
+        <item>我的数据</item>
+        <item>我的数据</item>
+        <item>我的数据</item>
+        <item>我的数据</item>
+        <item>我的数据</item>
+        <item>我的数据</item>
+        <item>我的数据</item>
+        <item>我的数据</item>
+        <item>我的数据</item>
+        <item>我的数据</item>
+        <item>我的数据</item>
+        <item>我的数据</item>
+        <item>我的数据</item>
+        <item>我的数据</item>
+        <item>我的数据</item>
+        <item>我的数据</item>
+        <item>我的数据</item>
+        <item>我的数据</item>
+        <item>我的数据</item>
+    </array>
+</resources>

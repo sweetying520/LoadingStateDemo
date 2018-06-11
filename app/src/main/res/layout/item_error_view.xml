@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/fl_error"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_gravity="center"
+        android:drawablePadding="20dp"
+        android:gravity="center"
+        android:text="网络错误"
+        android:textSize="16sp"
+        android:textColor="#999999"
+        android:drawableTop="@drawable/ic_error"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/btn_retry"
+        android:layout_marginBottom="120dp"
+        android:layout_gravity="bottom|center_horizontal"
+        android:text="点击重试"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+</FrameLayout>
